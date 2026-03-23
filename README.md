@@ -56,3 +56,18 @@
     <td>Supports future integration into enterprise-scale systems.</td>
   </tr>
 </table>
+<h3>Installation & Setup</h3>
+<ol>
+  <li><strong>Clone the repository:</strong>
+    <pre><code>git clone https://github.com/leelendrareddygogula/KeyBasedWebAuthentication.git</code></pre>
+  </li>
+  <li><strong>Navigate to the project folder:</strong>
+    <pre><code>cd KeyBasedWebAuthentication</code></pre>
+  </li>
+  <li><strong>Build the application:</strong>
+    <pre><code>mvn clean install</code></pre>
+  </li>
+  <li><strong>Run the project:</strong>
+    <pre><code>mvn spring-boot:run</code></pre>
+  </li>
+</ol>
